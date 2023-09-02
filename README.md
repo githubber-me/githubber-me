@@ -1,6 +1,4 @@
-# 💫 About Me:
-Creative Human | Graphic Design
-
+**Creative Human | Graphic Design**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meminchu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthahkarana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/me_minchu) 
@@ -12,7 +10,7 @@ Creative Human | Graphic Design
 ![](https://github-readme-streak-stats.herokuapp.com/?user=githubber-me&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=githubber-me&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Read this !
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
