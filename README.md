@@ -2,8 +2,6 @@
 <h3 align="center">Creative Human | Graphic Design | Habitual Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubber-me&label=Profile%20views&color=0e75b6&style=flat" alt="githubber-me" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubber-me&theme=" alt="githubber-me" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Reach me at **kirikminchu@gmail.com**
@@ -29,7 +27,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubber-me&layout=compact&theme=" alt=githubber-me />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubber-me&layout=compact&theme=gotham" alt=githubber-me />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=githubber-me&show_icons=true&locale=en&theme=gotham" alt="githubber-me" /></p>
 
