@@ -1,5 +1,5 @@
 <h1 align="center">Namaskara, I am Anthahkarana</h1>
-<h3 align="center">Creative Human | Graphic Design | Habitual Learner</h3>
+<h3 align="center">Creative Human | Graphic Designer | Habitual Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubber-me&label=Profile%20views&color=0e75b6&style=flat" alt="githubber-me" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
