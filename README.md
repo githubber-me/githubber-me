@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Front-End Development**
 
 - 💬 Reach me at **kirikminchu@gmail.com**
-- 👨‍💻 Checkout my work at **https://anthahkarana.live**
+- 👨‍💻 Checkout my work at **https://anthahkarana.tech**
 
 <div> <a href="https://twitter.com/me_minchu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anthahkarana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
